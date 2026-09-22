@@ -31,19 +31,14 @@
 ![Dashboard](reports/screenshots/1.png)
 ![Dashboard](reports/screenshots/2.png)
 ![Dashboard](reports/screenshots/3.png)
-![Dashboard](reports/screenshots/4.png)
 ![Dashboard](reports/screenshots/5.png)
+![Dashboard](reports/screenshots/4.png)
+
 
 ## EDA Графіки
 ![EDA Overview](reports/screenshots/6.png)
 ![Category Analysis](reports/screenshots/7.png)
 
-
-## Як запустити
-1. Завантаж датасет: [Olist на Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-2. Помісти CSV файли в `data/raw/`
-3. Встанови бібліотеки: `pip install -r requirements.txt`
-4. Відкрий `notebooks/olist_analysis.ipynb` в Jupyter
 
 ## Дані
 Датасет: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
