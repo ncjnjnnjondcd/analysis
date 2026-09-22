@@ -38,12 +38,6 @@
 ![EDA Overview](reports/screenshots/6.png)
 ![Category Analysis](reports/screenshots/7.png)
 
-## Структура проєкту
-olist-ecommerce-analysis/
- data/raw/          # CSV файли (завантажити з Kaggle)
- notebooks/         # Python EDA notebook
- reports/           # Скріншоти дашборду
- README.md
 
 ## Як запустити
 1. Завантаж датасет: [Olist на Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
@@ -53,5 +47,5 @@ olist-ecommerce-analysis/
 
 ## Дані
 Датасет: [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-Період: Жовтень 2016 — Серпень 2018
+Період: Жовтень 2016 - Серпень 2018
 Розмір: 99,441 замовлень
